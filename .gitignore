@@ -1,0 +1,15 @@
+# Временные файлы тестового браузера
+tools/.chrome-profile/
+tools/.chrome-test/
+tools/.chrome-pid
+tools/test-report.*
+
+# Python
+__pycache__/
+*.pyc
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
